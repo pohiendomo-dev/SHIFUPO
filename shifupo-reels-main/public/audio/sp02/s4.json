@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "d65ed24b7519ceb1bc7b8587a9217529f50a55c397b6a6da9b899fa0a9c02c74",
+  "text": "Konsultasi tatap muka, dijelaskan sampai Anda benar-benar paham.",
+  "words": [
+    {
+      "text": "Konsultasi",
+      "startInSeconds": 0,
+      "endInSeconds": 0.511
+    },
+    {
+      "text": "tatap",
+      "startInSeconds": 0.557,
+      "endInSeconds": 0.778
+    },
+    {
+      "text": "muka,",
+      "startInSeconds": 0.801,
+      "endInSeconds": 1.254
+    },
+    {
+      "text": "dijelaskan",
+      "startInSeconds": 1.312,
+      "endInSeconds": 1.811
+    },
+    {
+      "text": "sampai",
+      "startInSeconds": 1.858,
+      "endInSeconds": 2.101
+    },
+    {
+      "text": "Anda",
+      "startInSeconds": 2.183,
+      "endInSeconds": 2.45
+    },
+    {
+      "text": "benar-benar",
+      "startInSeconds": 2.508,
+      "endInSeconds": 2.926
+    },
+    {
+      "text": "paham.",
+      "startInSeconds": 3.03,
+      "endInSeconds": 3.669
+    }
+  ],
+  "loudnessLufs": -27.3
+}

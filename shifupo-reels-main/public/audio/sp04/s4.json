@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "01f910d1368824b041956a070919927cf67e89e35ff6d0271a518a9a7b571002",
+  "text": "Shifu Po membaca BaZi dan sektor jodoh Anda.",
+  "words": [
+    {
+      "text": "Shifu",
+      "startInSeconds": 0,
+      "endInSeconds": 0.488
+    },
+    {
+      "text": "Po",
+      "startInSeconds": 0.592,
+      "endInSeconds": 0.778
+    },
+    {
+      "text": "membaca",
+      "startInSeconds": 0.848,
+      "endInSeconds": 1.254
+    },
+    {
+      "text": "BaZi",
+      "startInSeconds": 1.358,
+      "endInSeconds": 1.823
+    },
+    {
+      "text": "dan",
+      "startInSeconds": 1.927,
+      "endInSeconds": 2.09
+    },
+    {
+      "text": "sektor",
+      "startInSeconds": 2.171,
+      "endInSeconds": 2.554
+    },
+    {
+      "text": "jodoh",
+      "startInSeconds": 2.659,
+      "endInSeconds": 2.937
+    },
+    {
+      "text": "Anda.",
+      "startInSeconds": 3.042,
+      "endInSeconds": 3.622
+    }
+  ],
+  "loudnessLufs": -22.3
+}

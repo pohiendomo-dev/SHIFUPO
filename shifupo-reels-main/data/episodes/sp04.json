@@ -1,0 +1,92 @@
+{
+  "id": "sp04",
+  "title": "Benang Merah Jodoh",
+  "world": "3d",
+  "set": "jodoh",
+  "brand": {
+    "name": "SHIFU PO",
+    "descriptor": "FENG SHUI & BAZI",
+    "sealGlyph": "風",
+    "handle": null,
+    "logo": "assets/brand/logo-red.png"
+  },
+  "claims": [
+    { "text": "Feng Shui punya sektor Bunga Persik (peach blossom), sektor asmara.", "reviewed": false },
+    { "text": "Sektor asmara yang berantakan membuat asmara tersendat.", "reviewed": false },
+    { "text": "Lebih dari 3.000 klien dibantu (angka 3.000+ klien dari website Shifu Po).", "reviewed": false }
+  ],
+  "scenes": [
+    {
+      "type": "stage3d",
+      "shot": "window",
+      "vo": "Sudah berusaha, tapi jodoh tak kunjung datang?",
+      "voHighlight": ["Sudah berusaha", "jodoh", "kunjung datang"],
+      "lines": [
+        { "text": "SUDAH BERUSAHA,", "cueWord": "berusaha" },
+        { "text": "JODOH TAK KUNJUNG DATANG?", "cueWord": "jodoh", "accent": "JODOH" }
+      ],
+      "actionCueWord": "datang"
+    },
+    {
+      "type": "stage3d",
+      "shot": "peach",
+      "vo": "Feng Shui punya sektor Bunga Persik, sektor asmara.",
+      "voHighlight": ["Bunga Persik", "asmara"],
+      "kicker": "FENG SHUI PERCINTAAN",
+      "lines": [
+        { "text": "SEKTOR BUNGA PERSIK", "cueWord": "Bunga", "accent": "PERSIK" },
+        { "text": "= SEKTOR ASMARA", "cueWord": "asmara", "accent": "ASMARA" }
+      ],
+      "actionCueWord": "asmara"
+    },
+    {
+      "type": "stage3d",
+      "shot": "bedroom",
+      "vo": "Kalau sektor itu berantakan, asmara ikut tersendat.",
+      "voHighlight": ["berantakan", "tersendat"],
+      "lines": [
+        { "text": "SEKTOR BERANTAKAN,", "cueWord": "berantakan", "accent": "BERANTAKAN," },
+        { "text": "ASMARA TERSENDAT", "cueWord": "asmara", "accent": "TERSENDAT" }
+      ],
+      "actionCueWord": "tersendat"
+    },
+    {
+      "type": "stage3d",
+      "shot": "luopan",
+      "vo": "Shifu Po membaca BaZi dan sektor jodoh Anda.",
+      "voHighlight": ["BaZi", "sektor jodoh"],
+      "kicker": "SHIFU PO",
+      "lines": [
+        { "text": "BACA BAZI", "cueWord": "BaZi", "accent": "BAZI" },
+        { "text": "& SEKTOR JODOH ANDA", "cueWord": "sektor", "accent": "JODOH" }
+      ],
+      "actionCueWord": "jodoh",
+      "shifuCueWord": "Shifu"
+    },
+    {
+      "type": "stage3d",
+      "shot": "tidy",
+      "vo": "Lalu menata kamar dan simbol jodohnya.",
+      "voHighlight": ["menata kamar", "simbol jodohnya"],
+      "lines": [
+        { "text": "TATA KAMAR", "cueWord": "menata", "accent": "KAMAR" },
+        { "text": "& SIMBOL JODOH", "cueWord": "simbol", "accent": "JODOH" }
+      ],
+      "actionCueWord": "kamar"
+    },
+    {
+      "type": "proof",
+      "koi": "none",
+      "vo": "Lebih dari tiga ribu klien sudah dibantu.",
+      "voHighlight": ["tiga ribu klien"],
+      "count": { "value": 3000, "suffix": "+", "label": "KLIEN TELAH DIBANTU", "cueWord": "tiga" }
+    },
+    {
+      "type": "cta",
+      "vo": "Chat WhatsApp, biar jodoh Anda dimudahkan.",
+      "voHighlight": ["WhatsApp", "dimudahkan"],
+      "button": { "text": "Konsultasi via WhatsApp", "cueWord": "WhatsApp" },
+      "tagline": { "text": "Biar jodoh Anda dimudahkan.", "accent": "dimudahkan.", "cueWord": "jodoh" }
+    }
+  ]
+}

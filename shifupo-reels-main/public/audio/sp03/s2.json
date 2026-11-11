@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "27b541cee7b71d4e4e5ab884564ccf762502c3447d782186e4a2b9ebad0444c2",
+  "text": "Dalam Feng Shui, pintu utama adalah gerbang energi.",
+  "words": [
+    {
+      "text": "Dalam",
+      "startInSeconds": 0,
+      "endInSeconds": 0.255
+    },
+    {
+      "text": "Feng",
+      "startInSeconds": 0.313,
+      "endInSeconds": 0.488
+    },
+    {
+      "text": "Shui,",
+      "startInSeconds": 0.557,
+      "endInSeconds": 0.917
+    },
+    {
+      "text": "pintu",
+      "startInSeconds": 0.975,
+      "endInSeconds": 1.312
+    },
+    {
+      "text": "utama",
+      "startInSeconds": 1.37,
+      "endInSeconds": 1.939
+    },
+    {
+      "text": "adalah",
+      "startInSeconds": 2.043,
+      "endInSeconds": 2.461
+    },
+    {
+      "text": "gerbang",
+      "startInSeconds": 2.682,
+      "endInSeconds": 3.402
+    },
+    {
+      "text": "energi.",
+      "startInSeconds": 3.553,
+      "endInSeconds": 4.551
+    }
+  ],
+  "loudnessLufs": -22.7
+}

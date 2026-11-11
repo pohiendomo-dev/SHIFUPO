@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "a57ed34e119e47a0f13848e9bc1108c28f3340fcef05c062aee6735b0015b844",
+  "text": "Konsultasi via WhatsApp, supaya kerja keras Anda punya arah.",
+  "words": [
+    {
+      "text": "Konsultasi",
+      "startInSeconds": 0,
+      "endInSeconds": 0.557
+    },
+    {
+      "text": "via",
+      "startInSeconds": 0.604,
+      "endInSeconds": 0.755
+    },
+    {
+      "text": "WhatsApp,",
+      "startInSeconds": 0.801,
+      "endInSeconds": 1.277
+    },
+    {
+      "text": "supaya",
+      "startInSeconds": 1.3,
+      "endInSeconds": 1.544
+    },
+    {
+      "text": "kerja",
+      "startInSeconds": 1.591,
+      "endInSeconds": 1.846
+    },
+    {
+      "text": "keras",
+      "startInSeconds": 1.927,
+      "endInSeconds": 2.183
+    },
+    {
+      "text": "Anda",
+      "startInSeconds": 2.322,
+      "endInSeconds": 2.612
+    },
+    {
+      "text": "punya",
+      "startInSeconds": 2.659,
+      "endInSeconds": 2.914
+    },
+    {
+      "text": "arah.",
+      "startInSeconds": 2.972,
+      "endInSeconds": 3.483
+    }
+  ],
+  "loudnessLufs": -26.2
+}

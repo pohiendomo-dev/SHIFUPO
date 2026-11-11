@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "4612e6783973e94dee3599a0579f155591787b3b418a35b24e1869faa3f351e9",
+  "text": "Lalu menata ulang ruang, tanpa bongkar total.",
+  "words": [
+    {
+      "text": "Lalu",
+      "startInSeconds": 0,
+      "endInSeconds": 0.534
+    },
+    {
+      "text": "menata",
+      "startInSeconds": 0.639,
+      "endInSeconds": 1.184
+    },
+    {
+      "text": "ulang",
+      "startInSeconds": 1.37,
+      "endInSeconds": 1.683
+    },
+    {
+      "text": "ruang,",
+      "startInSeconds": 1.753,
+      "endInSeconds": 2.113
+    },
+    {
+      "text": "tanpa",
+      "startInSeconds": 2.159,
+      "endInSeconds": 2.694
+    },
+    {
+      "text": "bongkar",
+      "startInSeconds": 2.763,
+      "endInSeconds": 3.17
+    },
+    {
+      "text": "total.",
+      "startInSeconds": 3.251,
+      "endInSeconds": 3.762
+    }
+  ],
+  "loudnessLufs": -25.8
+}

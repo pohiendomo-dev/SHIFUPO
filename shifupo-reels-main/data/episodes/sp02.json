@@ -1,0 +1,88 @@
+{
+  "id": "sp02",
+  "title": "Rezeki yang Mengalir",
+  "brand": {
+    "name": "SHIFU PO",
+    "descriptor": "FENG SHUI & BAZI",
+    "sealGlyph": "風",
+    "handle": null,
+    "logo": "assets/brand/logo-red.png"
+  },
+  "claims": [
+    {
+      "text": "Lebih dari 850 properti sudah diselaraskan (angka 850+ properti dari website Shifu Po).",
+      "reviewed": false
+    },
+    {
+      "text": "Konsultasi tatap muka (foto konsultasi dari website Shifu Po).",
+      "reviewed": false
+    },
+    {
+      "text": "Dalam Feng Shui, koi melambangkan rezeki yang terus mengalir.",
+      "reviewed": false
+    }
+  ],
+  "scenes": [
+    {
+      "type": "pond",
+      "mood": "still",
+      "vo": "Usaha sudah maksimal, tapi rezeki terasa seret?",
+      "voHighlight": ["maksimal", "rezeki terasa seret"],
+      "lines": [
+        { "text": "USAHA SUDAH MAKSIMAL,", "cueWord": "maksimal" },
+        { "text": "REZEKI TERASA SERET?", "cueWord": "rezeki", "accent": "SERET?" }
+      ]
+    },
+    {
+      "type": "pond",
+      "mood": "flow",
+      "vo": "Dalam Feng Shui, koi melambangkan rezeki yang terus mengalir.",
+      "voHighlight": ["koi", "terus mengalir"],
+      "kicker": "SIMBOL FENG SHUI",
+      "lines": [
+        { "text": "KOI = REZEKI", "cueWord": "koi", "accent": "KOI" },
+        { "text": "YANG TERUS MENGALIR", "cueWord": "terus", "accent": "MENGALIR" }
+      ],
+      "flowCueWord": "rezeki"
+    },
+    {
+      "type": "photo",
+      "vo": "Shifu Po membaca aliran energi rumah dan usaha Anda.",
+      "voHighlight": ["aliran energi", "rumah dan usaha"],
+      "src": "assets/2d/sp02/pagoda.jpg",
+      "focus": { "x": 50, "y": 66 },
+      "kicker": "FENG SHUI & BAZI",
+      "lines": [
+        { "text": "BACA ALIRAN ENERGI", "cueWord": "aliran", "accent": "ENERGI" },
+        { "text": "RUMAH & USAHA", "cueWord": "rumah" }
+      ],
+      "energyCueWord": "energi"
+    },
+    {
+      "type": "gallery",
+      "vo": "Konsultasi tatap muka, dijelaskan sampai Anda benar-benar paham.",
+      "voHighlight": ["tatap muka", "benar-benar paham"],
+      "title": { "text": "KONSULTASI TATAP MUKA", "cueWord": "tatap", "accent": "TATAP" },
+      "photos": [
+        { "src": "assets/2d/sp02/consult-1.jpg", "orientation": "landscape", "cueWord": "Konsultasi" },
+        { "src": "assets/2d/sp02/consult-2.jpg", "orientation": "portrait", "cueWord": "dijelaskan" },
+        { "src": "assets/2d/sp02/consult-3.jpg", "orientation": "landscape", "cueWord": "paham" }
+      ]
+    },
+    {
+      "type": "proof",
+      "koi": "pond",
+      "vo": "Lebih dari delapan ratus lima puluh properti sudah diselaraskan.",
+      "voHighlight": ["delapan ratus lima puluh properti"],
+      "count": { "value": 850, "suffix": "+", "label": "PROPERTI DISELARASKAN", "cueWord": "delapan" }
+    },
+    {
+      "type": "cta",
+      "vo": "Konsultasi via WhatsApp, biar rezeki Anda kembali mengalir.",
+      "voHighlight": ["WhatsApp", "kembali mengalir"],
+      "button": { "text": "Konsultasi via WhatsApp", "cueWord": "WhatsApp" },
+      "tagline": { "text": "Biar rezeki Anda kembali mengalir.", "accent": "mengalir.", "cueWord": "rezeki" },
+      "photo": "assets/2d/sp02/shifu-fan.jpg"
+    }
+  ]
+}

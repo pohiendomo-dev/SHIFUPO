@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "e17e3bc35553835eff9ef8ac937eb00bbd3f85f7aca70488e817d7b57fdf3332",
+  "text": "Lebih dari delapan ratus lima puluh properti sudah diselaraskan.",
+  "words": [
+    {
+      "text": "Lebih",
+      "startInSeconds": 0,
+      "endInSeconds": 0.43
+    },
+    {
+      "text": "dari",
+      "startInSeconds": 0.534,
+      "endInSeconds": 0.731
+    },
+    {
+      "text": "delapan",
+      "startInSeconds": 0.778,
+      "endInSeconds": 1.115
+    },
+    {
+      "text": "ratus",
+      "startInSeconds": 1.173,
+      "endInSeconds": 1.579
+    },
+    {
+      "text": "lima",
+      "startInSeconds": 1.649,
+      "endInSeconds": 1.916
+    },
+    {
+      "text": "puluh",
+      "startInSeconds": 1.962,
+      "endInSeconds": 2.194
+    },
+    {
+      "text": "properti",
+      "startInSeconds": 2.218,
+      "endInSeconds": 2.81
+    },
+    {
+      "text": "sudah",
+      "startInSeconds": 2.914,
+      "endInSeconds": 3.402
+    },
+    {
+      "text": "diselaraskan.",
+      "startInSeconds": 3.506,
+      "endInSeconds": 4.412
+    }
+  ],
+  "loudnessLufs": -27.3
+}

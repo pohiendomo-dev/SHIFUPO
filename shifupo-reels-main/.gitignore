@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+
+# Secrets: keep .env.example tracked, never the real files.
+.env
+.env.*
+!.env.example
+
+# Rendered videos and check frames.
+out/
+out-*.log
+
+# Generated voice over IS tracked: the team renders without paying for the
+# same ElevenLabs lines again. Delete public/audio/<id>/ to regenerate.
+.whisper/

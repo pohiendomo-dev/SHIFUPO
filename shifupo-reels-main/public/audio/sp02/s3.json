@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "f0ceed163edc9c7a9383216dc2b4ed6b575ebf5f9674c2dc4eb4cedb0403fd33",
+  "text": "Shifu Po membaca aliran energi rumah dan usaha Anda.",
+  "words": [
+    {
+      "text": "Shifu",
+      "startInSeconds": 0,
+      "endInSeconds": 0.464
+    },
+    {
+      "text": "Po",
+      "startInSeconds": 0.569,
+      "endInSeconds": 0.778
+    },
+    {
+      "text": "membaca",
+      "startInSeconds": 0.848,
+      "endInSeconds": 1.358
+    },
+    {
+      "text": "aliran",
+      "startInSeconds": 1.474,
+      "endInSeconds": 1.962
+    },
+    {
+      "text": "energi",
+      "startInSeconds": 2.067,
+      "endInSeconds": 2.415
+    },
+    {
+      "text": "rumah",
+      "startInSeconds": 2.45,
+      "endInSeconds": 2.798
+    },
+    {
+      "text": "dan",
+      "startInSeconds": 2.984,
+      "endInSeconds": 3.251
+    },
+    {
+      "text": "usaha",
+      "startInSeconds": 3.39,
+      "endInSeconds": 3.866
+    },
+    {
+      "text": "Anda.",
+      "startInSeconds": 3.982,
+      "endInSeconds": 4.69
+    }
+  ],
+  "loudnessLufs": -23.8
+}

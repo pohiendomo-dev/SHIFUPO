@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "da76b8e5541bc2b696fad56770ef350fb3d7db1736988b70bd181f4b7bd4557d",
+  "text": "Lebih dari tiga ribu klien sudah dibantu.",
+  "words": [
+    {
+      "text": "Lebih",
+      "startInSeconds": 0,
+      "endInSeconds": 0.232
+    },
+    {
+      "text": "dari",
+      "startInSeconds": 0.255,
+      "endInSeconds": 0.418
+    },
+    {
+      "text": "tiga",
+      "startInSeconds": 0.464,
+      "endInSeconds": 0.673
+    },
+    {
+      "text": "ribu",
+      "startInSeconds": 0.72,
+      "endInSeconds": 0.894
+    },
+    {
+      "text": "klien",
+      "startInSeconds": 0.929,
+      "endInSeconds": 1.196
+    },
+    {
+      "text": "sudah",
+      "startInSeconds": 1.242,
+      "endInSeconds": 1.393
+    },
+    {
+      "text": "dibantu.",
+      "startInSeconds": 1.416,
+      "endInSeconds": 2.136
+    }
+  ],
+  "loudnessLufs": -24.3
+}

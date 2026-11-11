@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "1733244f64f7de789efe4f2922dbbcda32e09d4ba76cf953326b44068fda74a7",
+  "text": "Usaha sudah maksimal, tapi rezeki terasa seret?",
+  "words": [
+    {
+      "text": "Usaha",
+      "startInSeconds": 0,
+      "endInSeconds": 0.569
+    },
+    {
+      "text": "sudah",
+      "startInSeconds": 0.615,
+      "endInSeconds": 0.848
+    },
+    {
+      "text": "maksimal,",
+      "startInSeconds": 0.882,
+      "endInSeconds": 1.463
+    },
+    {
+      "text": "tapi",
+      "startInSeconds": 1.509,
+      "endInSeconds": 1.765
+    },
+    {
+      "text": "rezeki",
+      "startInSeconds": 1.811,
+      "endInSeconds": 2.067
+    },
+    {
+      "text": "terasa",
+      "startInSeconds": 2.113,
+      "endInSeconds": 2.392
+    },
+    {
+      "text": "seret?",
+      "startInSeconds": 2.438,
+      "endInSeconds": 2.879
+    }
+  ],
+  "loudnessLufs": -26.5
+}

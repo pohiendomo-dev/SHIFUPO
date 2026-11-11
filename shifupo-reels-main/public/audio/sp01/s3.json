@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "5b94b1866dd9001fa0e1db78422beba735f9265a6549b2698d788094bce1ae47",
+  "text": "Lewat BaZi, Shifu Po membaca empat pilar kelahiran Anda: tahun, bulan, hari, jam.",
+  "words": [
+    {
+      "text": "Lewat",
+      "startInSeconds": 0,
+      "endInSeconds": 0.244
+    },
+    {
+      "text": "BaZi,",
+      "startInSeconds": 0.302,
+      "endInSeconds": 0.859
+    },
+    {
+      "text": "Shifu",
+      "startInSeconds": 0.906,
+      "endInSeconds": 1.184
+    },
+    {
+      "text": "Po",
+      "startInSeconds": 1.254,
+      "endInSeconds": 1.358
+    },
+    {
+      "text": "membaca",
+      "startInSeconds": 1.405,
+      "endInSeconds": 1.8
+    },
+    {
+      "text": "empat",
+      "startInSeconds": 1.858,
+      "endInSeconds": 2.287
+    },
+    {
+      "text": "pilar",
+      "startInSeconds": 2.345,
+      "endInSeconds": 2.67
+    },
+    {
+      "text": "kelahiran",
+      "startInSeconds": 2.728,
+      "endInSeconds": 3.077
+    },
+    {
+      "text": "Anda:",
+      "startInSeconds": 3.146,
+      "endInSeconds": 3.564
+    },
+    {
+      "text": "tahun,",
+      "startInSeconds": 3.622,
+      "endInSeconds": 4.249
+    },
+    {
+      "text": "bulan,",
+      "startInSeconds": 4.331,
+      "endInSeconds": 4.876
+    },
+    {
+      "text": "hari,",
+      "startInSeconds": 4.957,
+      "endInSeconds": 5.422
+    },
+    {
+      "text": "jam.",
+      "startInSeconds": 5.492,
+      "endInSeconds": 6.037
+    }
+  ],
+  "loudnessLufs": -24.8
+}

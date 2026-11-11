@@ -1,0 +1,242 @@
+================================================================
+ MASTER PROMPT SHIFU PO REELS  (semua jadi satu file)
+================================================================
+File ini untuk dua pembaca:
+ - ANDA : cukup isi/paste di BAGIAN 1, lalu bilang ke Claude
+          "proses MASTER-PROMPT" (atau paste prompt langsung di chat).
+ - CLAUDE: baca BAGIAN 2 sampai 7 sebagai aturan kerja setiap kali
+          menerima prompt untuk konten Shifu Po.
+
+Project acuan : D:\SHIFUPO\shifupo-reels-main
+                (CLAUDE.md, docs/PLAN-SP01.md, docs/guides/01-09,
+                 skill /buat-video)
+
+================================================================
+ BAGIAN 0 - CARA PAKAI (3 MODE)
+================================================================
+Claude menentukan mode sendiri dari isi prompt Anda.
+
+ MODE A - SINGKAT
+   Contoh: "bikin reels soal pintu rumah"
+           "konten jodoh BaZi"
+   Hasil : Claude MELENGKAPI SEMUA yang kosong dengan rekomendasi
+           terbaik, lalu menulis planning detail penuh (BAGIAN 4).
+           Semua isian dari Claude ditandai [REKOMENDASI].
+
+ MODE B - LENGKAP
+   Contoh: prompt berisi hook, alur, scene, gaya, aset, dll.
+   Hasil : Claude MENGIKUTI setiap detail Anda persis, lalu
+           MENAIKKAN kualitasnya: gerak lebih detail per detik,
+           transisi, trik retensi, timing cue, QA. Hasil HARUS lebih
+           tajam dari Mode A. Usulan yang mengubah keputusan Anda
+           TIDAK langsung dipakai; ditulis terpisah di bagian
+           "Usulan Claude (opsional)".
+
+ MODE C - BANK IDE
+   Contoh: "kasih 100 ide konten", "50 ide soal Feng Shui rumah"
+   Hasil : daftar N ide dengan format BAGIAN 5. Ide yang Anda pilih
+           ("kembangkan ide no 12, 37, 81") langsung dibuat planning
+           detail Mode A/B.
+
+ Setelah planning jadi, Claude SELALU bertanya (BAGIAN 7):
+   "Setuju, langsung produksi" atau "Revisi dulu".
+ Produksi video (skill /buat-video) baru jalan setelah Anda bilang ya.
+
+================================================================
+ BAGIAN 1 - TEMPAT PASTE PROMPT ANDA
+================================================================
+(Boleh 1 kalimat saja, boleh lengkap. Kolom yang kosong = Claude isi.)
+
+------------------------- MULAI PASTE -------------------------
+
+Prompt bebas :
+
+ID episode        :
+Judul / topik     :
+Tujuan / pesan    :
+Target penonton   :
+Layanan           :  (BaZi / Feng Shui rumah / kantor & bisnis / jodoh /
+                      garis tangan / Yin Zhai / simbol Feng Shui)
+Hook              :
+Alur / cerita     :
+Jumlah scene      :
+Durasi            :
+Gaya visual       :
+Aset khusus       :
+Suara             :
+CTA               :
+Catatan lain      :
+
+-------------------------- AKHIR PASTE -------------------------
+
+================================================================
+ BAGIAN 2 - ATURAN KERJA CLAUDE (WAJIB DIBACA)
+================================================================
+1. Baca dulu: CLAUDE.md, docs/PLAN-SP01.md (standar kualitas),
+   dan guide yang relevan di docs/guides/.
+2. Bicara ke user dalam Bahasa Indonesia santai. Teks layar & VO
+   pakai "Anda", hangat dan meyakinkan.
+3. Hanya angka resmi: 3.000+ klien, 850+ properti, 10+ tahun,
+   laporan 3-7 hari kerja. Klaim lain = tandai "perlu dicek".
+4. Spesifikasi: 1080x1920, 30 fps, 15-30 detik (ideal 20-29),
+   <= 30 MB, -14 LUFS, true peak <= -1,5 dB. Teks di safe area
+   (x 64, y 314, w 792, h 1122). VO kira-kira 2,05 kata/detik.
+5. Struktur episode: 4-7 scene, dibuka hook / pond / stage3d,
+   ditutup tepat 1 cta.
+   Tipe scene tersedia: hook, insight, bazi, fengshui, proof,
+   cta, pond, photo, gallery, stage3d. Tipe baru boleh dibuat
+   kalau perlu (schema + scene baru), sebutkan di planning.
+6. Gerak "anime smooth": tanpa gerak linear, anticipation +
+   overshoot, follow-through, stagger, tidak ada frame diam,
+   min 3 lapis parallax, transisi ink-wipe + match move.
+   Durasi scene dari VO, event terikat cue kata, bukan detik.
+7. Brand: tinta #12100E, kertas #F8F4EC, emas #C9A45C/#9C7A35/
+   #F1DDA8, merah stempel #A8161D. Motif: kertas krem, gunung
+   sumi-e, luo pan emas, bambu, stempel merah, koi, koin emas,
+   cetak biru, sudut kisi. Font: Plus Jakarta Sans, Cinzel,
+   Noto Serif SC.
+8. Aset: semua art original. Foto website hanya foto Shifu Po &
+   logo; tidak boleh screenshot chat, logo pihak lain, wajah klien.
+   BGM hanya lisensi komersial.
+9. Jangan pernah mulai produksi sebelum user setuju.
+
+================================================================
+ BAGIAN 3 - MESIN RETENSI (biar penonton betah sampai habis)
+================================================================
+Setiap planning WAJIB punya "Peta Retensi" yang memakai ini:
+
+ 0,0-1,5 dtk  HOOK VISUAL: gerakan besar / kontras / benda aneh di
+              frame pertama. Tidak ada logo atau intro.
+ 0-3 dtk      HOOK KATA: pertanyaan yang menyentil masalah penonton,
+              atau pernyataan mengejutkan, atau "kesalahan yang
+              sering dilakukan". Teks layar <= 6 kata.
+ 3-6 dtk      OPEN LOOP: janji jawaban ("ternyata penyebabnya
+              ini...") supaya penonton menunggu.
+ Tiap 2-3 dtk PATTERN INTERRUPT: ganti sudut kamera, zoom, objek
+              baru masuk, teks slam, SFX aksen. Tidak ada 3 detik
+              yang sama.
+ Tengah       PAYOFF BERTAHAP: satu insight jelas per scene, pakai
+              visual metafora (bukan teks panjang).
+ Sebelum CTA  BUKTI: angka resmi / foto Shifu Po / kesaksian umum.
+ Akhir        CTA jelas + LOOP: frame terakhir menyambung ke frame
+              pertama supaya ditonton ulang.
+ Selalu       Teks layar besar, singkat, muncul tepat di kata cue;
+              caption mudah dibaca tanpa suara.
+
+Pola hook yang bisa dipilih (Claude pilih yang paling cocok):
+ - Pertanyaan sakit hati : "Kerja keras, tapi hasil begitu-begitu saja?"
+ - Larangan              : "Jangan taruh cermin di sini."
+ - Mitos vs fakta        : "Katanya pintu harus menghadap selatan. Salah."
+ - Angka                 : "3 tanda rumah Anda menahan rezeki."
+ - Rahasia / ternyata    : "Ternyata tanggal lahir Anda menyimpan ini."
+ - Before-after          : ruangan kacau -> tertata, energi berubah.
+ - POV                   : "POV: Anda baru pindah rumah dan..."
+
+================================================================
+ BAGIAN 4 - FORMAT PLANNING DETAIL (Mode A & B)
+================================================================
+Planning ditulis di chat DAN disimpan ke project sebagai
+docs/<id>/PLAN.md (format PLAN-TEMPLATE) + data/episodes/<id>.json.
+Isinya urut seperti ini:
+
+ 4.1  RINGKASAN
+      ID, judul, layanan, target penonton & masalahnya, tujuan
+      (1 kalimat), durasi perkiraan, jumlah scene, mode (A/B).
+
+ 4.2  PETA RETENSI
+      Tabel detik -> apa yang terjadi -> trik retensi yang dipakai.
+
+ 4.3  NASKAH VO
+      # | Beat | Kalimat VO | Cue | Teks layar | Perkiraan detik
+      Cek: cue muncul tepat 1x, angka layar = angka VO, jumlah
+      kata cocok dengan durasi.
+
+ 4.4  STORYBOARD PER SCENE
+      Untuk setiap scene:
+       - Tipe scene & durasi
+       - Latar (lapisan depan / tengah / belakang)
+       - Aksi utama (apa bergerak, dari mana ke mana)
+       - Kamera (push, pan, shake, zoom; nilai kira-kira)
+       - Teks layar + kata cue kapan muncul + gaya masuknya
+       - SFX aksen
+       - Benda penghubung ke scene berikutnya (match move)
+
+ 4.5  DAFTAR ASET
+      Nama | Jenis (SVG 2D / 3D live / PNG seq / foto) | Folder |
+      Sudah ada? | Dibuat oleh Claude atau perlu dari user
+
+ 4.6  DETAIL ANIMASI
+      Per scene: kurva gerak (spring/ease), overshoot, stagger,
+      parallax, transisi. Sebutkan helper di src/lib/motion.ts.
+
+ 4.7  SUARA
+      Karakter VO, BGM (mood, BPM, lisensi), daftar SFX, target
+      loudness.
+
+ 4.8  RENCANA PRODUKSI & QA
+      Draft -> cek frame sheet & stills -> perbaikan (maks 3x) ->
+      final -> laporan. Checklist dari 08-QA-HASIL-BERSIH.
+
+ 4.9  YANG PERLU DARI MANUSIA
+      Aset/izin/kunci yang hanya user punya.
+
+ 4.10 REKOMENDASI & RISIKO
+      Daftar bernomor isian [REKOMENDASI] + alasannya, dan risiko
+      (klaim, lisensi, durasi, keterbacaan).
+
+================================================================
+ BAGIAN 5 - FORMAT BANK IDE (Mode C, contoh 100 ide)
+================================================================
+Aturan:
+ - Bagi rata ke pilar konten (lihat bawah); tidak ada ide kembar.
+ - Variasikan pola hook (BAGIAN 3) dan tipe scene.
+ - Kalau N besar, kirim per batch 25 dan simpan ke
+   D:\SHIFUPO\Prompt\BANK-IDE.txt (ditambah, bukan ditimpa),
+   lanjut otomatis sampai N selesai.
+ - Tandai 10 ide terbaik dengan [TOP] + alasan singkat.
+
+Pilar konten:
+ P1 BaZi & karier / rezeki      P5 Feng Shui kantor & usaha
+ P2 BaZi jodoh (peach blossom)  P6 Simbol & benda Feng Shui
+ P3 Feng Shui rumah (ruang)     P7 Mitos vs fakta
+ P4 Feng Shui pindah / beli     P8 Behind the scene & bukti
+    rumah                           (proses konsultasi, laporan)
+ (Garis tangan & Yin Zhai boleh masuk sebagai ide khusus.)
+
+Format tiap ide (satu blok):
+ No       :
+ Pilar    :
+ Judul    :
+ Hook     : (kalimat 0-3 detik)
+ Angle    : (kenapa orang peduli)
+ Alur     : beat 1 -> beat 2 -> beat 3 -> bukti -> CTA
+ Scene    : (urutan tipe scene, 4-7)
+ Aset kunci: (benda / karakter / foto utama)
+ Trik retensi: (open loop, before-after, angka, dll.)
+ CTA      :
+ Prioritas: Tinggi / Sedang / Rendah
+
+================================================================
+ BAGIAN 6 - STANDAR KUALITAS SINGKAT vs LENGKAP
+================================================================
+ Prompt singkat  -> planning tetap LENGKAP (semua BAGIAN 4 terisi),
+                    Claude ambil keputusan terbaik dan menjelaskan
+                    alasannya.
+ Prompt lengkap  -> semua keputusan user dipakai persis, ditambah:
+                    timing per cue lebih presisi, gerak per detik,
+                    transisi spesifik, 2-3 ide pattern interrupt
+                    ekstra, dan usulan opsional yang terpisah.
+                    Hasil Mode B tidak boleh lebih tipis dari Mode A.
+ Tidak boleh     -> planning generik, scene tanpa gerak jelas, teks
+                    panjang di layar, klaim angka tidak resmi.
+
+================================================================
+ BAGIAN 7 - KONFIRMASI (Claude selalu menutup dengan ini)
+================================================================
+ Ringkas: topik, hook, VO penuh, daftar scene, durasi, yang perlu
+ dari manusia, dan daftar [REKOMENDASI] yang perlu dicek.
+ Lalu tanya satu pertanyaan:
+   [ ] Setuju, langsung produksi
+   [ ] Revisi dulu (sebutkan nomor rekomendasi / bagian)
+ Revisi diulang di tahap planning sampai user setuju.
+================================================================

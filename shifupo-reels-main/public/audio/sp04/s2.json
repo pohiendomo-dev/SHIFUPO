@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "c88196e72b7296050fdb90a0e79cf4b0810a4fe248b938079e76c3f231309314",
+  "text": "Feng Shui punya sektor Bunga Persik, sektor asmara.",
+  "words": [
+    {
+      "text": "Feng",
+      "startInSeconds": 0,
+      "endInSeconds": 0.221
+    },
+    {
+      "text": "Shui",
+      "startInSeconds": 0.279,
+      "endInSeconds": 0.453
+    },
+    {
+      "text": "punya",
+      "startInSeconds": 0.511,
+      "endInSeconds": 0.789
+    },
+    {
+      "text": "sektor",
+      "startInSeconds": 0.836,
+      "endInSeconds": 1.324
+    },
+    {
+      "text": "Bunga",
+      "startInSeconds": 1.428,
+      "endInSeconds": 1.788
+    },
+    {
+      "text": "Persik,",
+      "startInSeconds": 1.904,
+      "endInSeconds": 2.415
+    },
+    {
+      "text": "sektor",
+      "startInSeconds": 2.473,
+      "endInSeconds": 2.926
+    },
+    {
+      "text": "asmara.",
+      "startInSeconds": 3.042,
+      "endInSeconds": 3.855
+    }
+  ],
+  "loudnessLufs": -28
+}

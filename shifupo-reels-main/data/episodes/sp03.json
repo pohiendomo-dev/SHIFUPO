@@ -1,0 +1,91 @@
+{
+  "id": "sp03",
+  "title": "Pintu Rezeki",
+  "world": "3d",
+  "brand": {
+    "name": "SHIFU PO",
+    "descriptor": "FENG SHUI & BAZI",
+    "sealGlyph": "風",
+    "handle": null,
+    "logo": "assets/brand/logo-red.png"
+  },
+  "claims": [
+    { "text": "Dalam Feng Shui, pintu utama adalah gerbang energi rumah.", "reviewed": false },
+    { "text": "Arah yang salah membuat energi berputar lalu keluar lagi.", "reviewed": false },
+    { "text": "Lebih dari 850 properti (angka 850+ properti dari website Shifu Po).", "reviewed": false }
+  ],
+  "scenes": [
+    {
+      "type": "stage3d",
+      "shot": "house-dim",
+      "vo": "Rumah sudah bagus, tapi rezeki seperti tertahan?",
+      "voHighlight": ["Rumah sudah bagus", "rezeki", "tertahan"],
+      "lines": [
+        { "text": "RUMAH SUDAH BAGUS,", "cueWord": "bagus" },
+        { "text": "REZEKI TERTAHAN?", "cueWord": "rezeki", "accent": "TERTAHAN?" }
+      ],
+      "actionCueWord": "tertahan"
+    },
+    {
+      "type": "stage3d",
+      "shot": "door",
+      "vo": "Dalam Feng Shui, pintu utama adalah gerbang energi.",
+      "voHighlight": ["pintu utama", "gerbang energi"],
+      "kicker": "FENG SHUI RUMAH",
+      "lines": [
+        { "text": "PINTU UTAMA", "cueWord": "pintu", "accent": "PINTU" },
+        { "text": "= GERBANG ENERGI", "cueWord": "gerbang", "accent": "ENERGI" }
+      ],
+      "actionCueWord": "energi"
+    },
+    {
+      "type": "stage3d",
+      "shot": "leak",
+      "vo": "Kalau arah salah, energi cuma berputar lalu keluar.",
+      "voHighlight": ["Arah salah", "keluar"],
+      "lines": [
+        { "text": "ARAH SALAH,", "cueWord": "salah", "accent": "SALAH," },
+        { "text": "ENERGI BERPUTAR LALU KELUAR", "cueWord": "berputar", "accent": "KELUAR" }
+      ],
+      "actionCueWord": "keluar"
+    },
+    {
+      "type": "stage3d",
+      "shot": "luopan",
+      "vo": "Shifu Po membaca arahnya dengan luo pan.",
+      "voHighlight": ["arahnya", "luo pan"],
+      "kicker": "SHIFU PO",
+      "lines": [
+        { "text": "BACA ARAH", "cueWord": "membaca" },
+        { "text": "DENGAN LUO PAN", "cueWord": "luo", "accent": "LUO" }
+      ],
+      "actionCueWord": "arahnya",
+      "shifuCueWord": "Shifu"
+    },
+    {
+      "type": "stage3d",
+      "shot": "rearrange",
+      "vo": "Lalu menata ulang ruang, tanpa bongkar total.",
+      "voHighlight": ["menata ulang ruang", "tanpa bongkar total"],
+      "lines": [
+        { "text": "TATA ULANG RUANG", "cueWord": "menata", "accent": "RUANG" },
+        { "text": "TANPA BONGKAR TOTAL", "cueWord": "tanpa", "accent": "TANPA" }
+      ],
+      "actionCueWord": "ruang"
+    },
+    {
+      "type": "proof",
+      "koi": "none",
+      "vo": "Lebih dari delapan ratus lima puluh properti.",
+      "voHighlight": ["delapan ratus lima puluh properti"],
+      "count": { "value": 850, "suffix": "+", "label": "PROPERTI DISELARASKAN", "cueWord": "delapan" }
+    },
+    {
+      "type": "cta",
+      "vo": "Chat WhatsApp, biar rezeki masuk dan menetap.",
+      "voHighlight": ["WhatsApp", "masuk dan menetap"],
+      "button": { "text": "Konsultasi via WhatsApp", "cueWord": "WhatsApp" },
+      "tagline": { "text": "Biar rezeki masuk dan menetap.", "accent": "menetap.", "cueWord": "rezeki" }
+    }
+  ]
+}

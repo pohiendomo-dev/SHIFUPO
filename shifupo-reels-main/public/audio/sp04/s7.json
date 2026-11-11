@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "88e3a43a8a7202f9ffc3c4343dc92cec867ccae537e694030ca064347d6578a9",
+  "text": "Chat WhatsApp, biar jodoh Anda dimudahkan.",
+  "words": [
+    {
+      "text": "Chat",
+      "startInSeconds": 0,
+      "endInSeconds": 0.221
+    },
+    {
+      "text": "WhatsApp,",
+      "startInSeconds": 0.267,
+      "endInSeconds": 0.697
+    },
+    {
+      "text": "biar",
+      "startInSeconds": 0.731,
+      "endInSeconds": 0.882
+    },
+    {
+      "text": "jodoh",
+      "startInSeconds": 0.94,
+      "endInSeconds": 1.161
+    },
+    {
+      "text": "Anda",
+      "startInSeconds": 1.196,
+      "endInSeconds": 1.358
+    },
+    {
+      "text": "dimudahkan.",
+      "startInSeconds": 1.393,
+      "endInSeconds": 2.09
+    }
+  ],
+  "loudnessLufs": -26.8
+}

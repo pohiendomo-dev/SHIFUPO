@@ -1,0 +1,17 @@
+# Re-created on every laptop (see README: "Setup laptop baru").
+node_modules/
+.npm-cache/
+.whisper/
+shifupo-reels-main/out/
+tools/bg-remove/node_modules/
+
+# Secrets. .env is only added once the repository is private (README:
+# "File .env"). Never push it to a public repository.
+.env
+.env.*
+!.env.example
+
+# OS junk.
+.DS_Store
+Thumbs.db
+desktop.ini

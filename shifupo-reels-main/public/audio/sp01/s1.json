@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "f3049ac7fca4a558c4c1f8c7ed1361fc04b7cd9cdc8bfbbc1cd5914270afd72a",
+  "text": "Kerja keras tiap hari, hasilnya begitu-begitu saja?",
+  "words": [
+    {
+      "text": "Kerja",
+      "startInSeconds": 0,
+      "endInSeconds": 0.464
+    },
+    {
+      "text": "keras",
+      "startInSeconds": 0.546,
+      "endInSeconds": 0.801
+    },
+    {
+      "text": "tiap",
+      "startInSeconds": 0.859,
+      "endInSeconds": 1.057
+    },
+    {
+      "text": "hari,",
+      "startInSeconds": 1.126,
+      "endInSeconds": 1.486
+    },
+    {
+      "text": "hasilnya",
+      "startInSeconds": 1.533,
+      "endInSeconds": 1.869
+    },
+    {
+      "text": "begitu-begitu",
+      "startInSeconds": 1.904,
+      "endInSeconds": 2.473
+    },
+    {
+      "text": "saja?",
+      "startInSeconds": 2.519,
+      "endInSeconds": 3.065
+    }
+  ],
+  "loudnessLufs": -26.8
+}

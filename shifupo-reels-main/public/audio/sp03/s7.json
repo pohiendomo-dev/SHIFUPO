@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "b10cff82a4e4b5e0a5a18a6ac774a6e01a4b68ab834c75f0ac324234acae227b",
+  "text": "Chat WhatsApp, biar rezeki masuk dan menetap.",
+  "words": [
+    {
+      "text": "Chat",
+      "startInSeconds": 0,
+      "endInSeconds": 0.186
+    },
+    {
+      "text": "WhatsApp,",
+      "startInSeconds": 0.244,
+      "endInSeconds": 0.72
+    },
+    {
+      "text": "biar",
+      "startInSeconds": 0.743,
+      "endInSeconds": 0.917
+    },
+    {
+      "text": "rezeki",
+      "startInSeconds": 0.94,
+      "endInSeconds": 1.184
+    },
+    {
+      "text": "masuk",
+      "startInSeconds": 1.231,
+      "endInSeconds": 1.498
+    },
+    {
+      "text": "dan",
+      "startInSeconds": 1.556,
+      "endInSeconds": 1.683
+    },
+    {
+      "text": "menetap.",
+      "startInSeconds": 1.753,
+      "endInSeconds": 2.368
+    }
+  ],
+  "loudnessLufs": -31.3
+}

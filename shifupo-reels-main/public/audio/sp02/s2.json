@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "92cdf9b1461b224cc293ed14ee261ce85b238a29e61f015b84225a032f1777fe",
+  "text": "Dalam Feng Shui, koi melambangkan rezeki yang terus mengalir.",
+  "words": [
+    {
+      "text": "Dalam",
+      "startInSeconds": 0,
+      "endInSeconds": 0.337
+    },
+    {
+      "text": "Feng",
+      "startInSeconds": 0.406,
+      "endInSeconds": 0.592
+    },
+    {
+      "text": "Shui,",
+      "startInSeconds": 0.639,
+      "endInSeconds": 1.068
+    },
+    {
+      "text": "koi",
+      "startInSeconds": 1.115,
+      "endInSeconds": 1.428
+    },
+    {
+      "text": "melambangkan",
+      "startInSeconds": 1.544,
+      "endInSeconds": 2.426
+    },
+    {
+      "text": "rezeki",
+      "startInSeconds": 2.496,
+      "endInSeconds": 2.972
+    },
+    {
+      "text": "yang",
+      "startInSeconds": 3.077,
+      "endInSeconds": 3.274
+    },
+    {
+      "text": "terus",
+      "startInSeconds": 3.379,
+      "endInSeconds": 3.669
+    },
+    {
+      "text": "mengalir.",
+      "startInSeconds": 3.773,
+      "endInSeconds": 4.458
+    }
+  ],
+  "loudnessLufs": -24.2
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "32b88328172092d37ebd1097a3e0aaedccdc0978a51f91fb1ded5208d1deb36b",
+  "text": "Kalau sektor itu berantakan, asmara ikut tersendat.",
+  "words": [
+    {
+      "text": "Kalau",
+      "startInSeconds": 0,
+      "endInSeconds": 0.255
+    },
+    {
+      "text": "sektor",
+      "startInSeconds": 0.279,
+      "endInSeconds": 0.522
+    },
+    {
+      "text": "itu",
+      "startInSeconds": 0.569,
+      "endInSeconds": 0.697
+    },
+    {
+      "text": "berantakan,",
+      "startInSeconds": 0.743,
+      "endInSeconds": 1.335
+    },
+    {
+      "text": "asmara",
+      "startInSeconds": 1.37,
+      "endInSeconds": 2.02
+    },
+    {
+      "text": "ikut",
+      "startInSeconds": 2.101,
+      "endInSeconds": 2.426
+    },
+    {
+      "text": "tersendat.",
+      "startInSeconds": 2.461,
+      "endInSeconds": 3.065
+    }
+  ],
+  "loudnessLufs": -26.1
+}

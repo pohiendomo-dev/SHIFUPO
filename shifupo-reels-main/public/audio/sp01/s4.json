@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": "elevenlabs",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "textHash": "af5543eea2f0f34e577f871324d4c3fe21df912394eb24b406b31c5a358d789d",
+  "text": "Lalu menyelaraskan energi rumah dan usaha, tanpa bongkar total.",
+  "words": [
+    {
+      "text": "Lalu",
+      "startInSeconds": 0,
+      "endInSeconds": 0.313
+    },
+    {
+      "text": "menyelaraskan",
+      "startInSeconds": 0.36,
+      "endInSeconds": 1.091
+    },
+    {
+      "text": "energi",
+      "startInSeconds": 1.161,
+      "endInSeconds": 1.556
+    },
+    {
+      "text": "rumah",
+      "startInSeconds": 1.602,
+      "endInSeconds": 2.032
+    },
+    {
+      "text": "dan",
+      "startInSeconds": 2.09,
+      "endInSeconds": 2.218
+    },
+    {
+      "text": "usaha,",
+      "startInSeconds": 2.276,
+      "endInSeconds": 2.972
+    },
+    {
+      "text": "tanpa",
+      "startInSeconds": 3.019,
+      "endInSeconds": 3.564
+    },
+    {
+      "text": "bongkar",
+      "startInSeconds": 3.68,
+      "endInSeconds": 4.226
+    },
+    {
+      "text": "total.",
+      "startInSeconds": 4.331,
+      "endInSeconds": 5.155
+    }
+  ],
+  "loudnessLufs": -24
+}
